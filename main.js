@@ -1,13 +1,6 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var firebaseConfig = {
-  apiKey: "AIzaSyBnWGQfM677TswYMBUDMCVSC1CtuswL5Fo",
-  authDomain: "login-95de5.firebaseapp.com",
-  databaseURL: "https://login-95de5.firebaseio.com",
-  projectId: "login-95de5",
-  storageBucket: "login-95de5.appspot.com",
-  messagingSenderId: "277584537988",
-  appId: "1:277584537988:web:9446b819f007e75d4215d1",
-  measurementId: "G-S2DDKPEH1J"
+ //api
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
